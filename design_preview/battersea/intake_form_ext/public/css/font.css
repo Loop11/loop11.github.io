@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@font-face
+{
+	font-family: 'batt-dem';
+	src: url(../font/FranklinGothicURWDem.woff) format('woff');
+}
+
+@font-face
+{
+	font-family: 'batt-med';
+	src: url(../font/FranklinGothicURWBoo.woff) format('woff');
+}
+
+@font-face
+{
+	font-family: 'batt-ext-con';
+	src: url(../font/FranklinGotExtCond.woff) format('woff');
+}
